@@ -1,0 +1,203 @@
+---
+title: "You and Your Research"
+subtitle: "A Talk at Bell Labs by Richard Hamming"
+author: ""
+institute: "💡 Bell Communications Research Colloquia Series"
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: middle, right
+
+background-image: url(https://upload.wikimedia.org/wikipedia/en/0/08/Richard_Hamming.jpg)
+
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+https://en.wikipedia.org/wiki/Richard_Hamming
+
+---
+class: inverse, center, middle
+
+# Do Great Work
+
+---
+
+# Intention
+
+
+--
+
+Start with saying to yourself "I would like to do first-class work"
+
+--
+
+> "As far as I know, each of you has one life to live..."
+
+--
+
+> "Why shouldn't you do significant things in this one life, however you define significant?"
+
+
+
+---
+
+# Luck
+
+--
+
+### Luck has little to do with it
+
+--
+
+> *If others would think as hard as I did, then they would get similar results.*  Isaac Newton
+
+--
+
+### Preparation is critical
+
+Einstein thought about speed of light when he was a teenager!
+
+--
+
+### Intelligence/ Brains
+
+Brains are measured differently, so overrated. 
+
+--
+Success begets more success because you build confidence, build more courage, become more articulate.
+
+---
+
+# Cour(age)
+
+--
+### Have courage
+
+Once you get your courage up and believe that you can do important problems, then you can. 
+
+--
+If you think you can't, almost surely you are not going to.
+
+--
+
+### Age has an effect
+
+--
+
+Perhaps because once success arrives, there’s less time for great work and more time for speeches and ceremony. When you become famous, hard work (ego, etc) to work on small problems.
+
+---
+# Conditions
+
+### Working conditions don’t matter (much)
+
+🤔 
+
+--
+
+You can do great work by turning around the problem a little bit, rephrasing it.
+
+--
+## Drive 
+
+--
+Great researchers have great drive (John Tukey story) 
+
+> “You would be surprised Hamming, how much you would know if you worked as hard as he did that many years.” 
+
+--
+
+Knowledge & productivity are like compound interest
+
+
+---
+
+# Other Things 2
+
+- Tolerate ambiguity very well. They believe the theory enough to go ahead; they doubt it enough to notice the errors and faults so they can step forward and create the new replacement theory. If you believe too much you'll never notice the flaws; if you doubt too much you won't get started.
+
+- Feed the subconscious the problems and starve it from others for answers, sometimes
+
+- Ask “what are the important problems in my field?”  Work on the important problems. You won’t do great work otherwise.
+
+> Important problems: It’s not consequences that make it an important problem, it’s that you have a reasonable attack.
+
+---
+
+# Other things 3
+ 
+- 💡 “Great thoughts time”: Friday afternoons would discuss only great thoughts.
+- Pursue opportunity for great work when it shows up. Drop all other things. They go after it because they’ve already thought this thing through
+- Do you job in such a fashion that other people can build on it.  Don’t stand on each other’s feet.
+
+---
+
+# Other things 4 
+- Selling your work. Distasteful, ignored, and yet the most important.  Three things to do in selling:
+    - Write clearly so that people will read it
+    - Learn to give formal talks
+    - Learn to give informal talks
+- Technical people love to give a deep, restricted, TMI technical talk. The audience wants a broad, general relatable talk.
+
+---
+
+# Other Things 5 
+
+
+- Educating your bosses so you get control over what you work on. Will take time, is hard work.
+
+- Use leverage (story about using computing time to ask for named credit for the people doing programming, then using credit in published article to ask for resources)
+
+---
+
+Other Things 6 
+
+
+# Is the effort to be great (scientist) worth it?
+
+> I think it is very definitely worth the struggle to try and do first-class work because the truth is, the value is in the struggle more than it is in the result. The struggle to make something of yourself seems to be worthwhile in itself. The success and fame are sort of dividends, in my opinion.
+
+---
+
+# Other Things 7
+
+Why do so many people who have brains and talent fail?
+
+    - Lack of drive, commitment
+    - Personality defects (control freak, not using the system to advantage)
+    - Ego assertion (dressing as a form of self-expression). Appearance of conformity is enough, you don’t have to conform 💡
+    - You can fight to reform the system or you can do great work, not both.
+    - Anger
+    - Unable to look for positive side (I bragged about something so I'd have to perform. I found out many times, like a cornered rat in a real trap, I was surprisingly capable.)
+    - Self-delusion (Well, I had the idea but I didn't do it and so on and so on.)
+    
+---
+
+# Summary
+
+Some of the reasons why so many people who have greatness within their grasp don't succeed are: 
+
+--
+
+They don't work on important problems
+
+--
+
+They don't become emotionally involved
+
+--
+
+They don't try and change what is difficult to some other situation which is easily done but is still important
+
+--
+
+They keep giving themselves alibis why they don't. They keep saying that it is a matter of luck. 
