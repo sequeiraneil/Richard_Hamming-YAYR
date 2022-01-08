@@ -203,36 +203,63 @@ Three things to do in selling:
 Technical people love to give a deep, restricted, TMI technical talk. The audience wants a broad, general relatable talk.
 
 ---
+class: inverse
 
-# Other Things 5 
+# Leverage 
 
+--
+### Educate Your Boss
+Try to get control over what you work on. Will take time, is hard work.
 
-- Educating your bosses so you get control over what you work on. Will take time, is hard work.
-
-- Use leverage (story about using computing time to ask for named credit for the people doing programming, then using credit in published article to ask for resources)
+--
+### Use leverage 
+(story about using computing time to ask for named credit for the people doing programming, then using credit in published article to ask for resources)
 
 ---
 
-Other Things 6 
+# Is it worth the effort?
 
 
-# Is the effort to be great (scientist) worth it?
-
+--
 > I think it is very definitely worth the struggle to try and do first-class work because the truth is, the value is in the struggle more than it is in the result. The struggle to make something of yourself seems to be worthwhile in itself. The success and fame are sort of dividends, in my opinion.
 
 ---
+class: inverse
 
-# Other Things 7
+# Why Do Talented Smart People Fail?
 
-Why do so many people who have brains and talent fail?
+--
+### Lack of drive, commitment
 
-    - Lack of drive, commitment
-    - Personality defects (control freak, not using the system to advantage)
-    - Ego assertion (dressing as a form of self-expression). Appearance of conformity is enough, you don’t have to conform 💡
-    - You can fight to reform the system or you can do great work, not both.
-    - Anger
-    - Unable to look for positive side (I bragged about something so I'd have to perform. I found out many times, like a cornered rat in a real trap, I was surprisingly capable.)
-    - Self-delusion (Well, I had the idea but I didn't do it and so on and so on.)
+--
+### Personality defects 
+- (control freak, not using the system to advantage)
+
+
+--
+
+### Ego assertion
+- (example: dressing as a form of self-expression). 
+
+--
+- Appearance of conformity is enough, you don’t have to conform 💡
+
+--
+
+### Choosing battles
+You can fight to reform the system or you can do great work, not both.
+
+--
+### Anger
+
+--
+
+### Unable to look for positive side or use defects to advantage
+(*I bragged about something so I'd have to perform. I found out many times, like a cornered rat in a real trap, I was surprisingly capable.*)
+
+--
+### Self-delusion
+(*Well, I had the idea but I didn't do it and so on and so on.*)
     
 ---
 
@@ -242,16 +269,16 @@ Some of the reasons why so many people who have greatness within their grasp don
 
 --
 
-They don't work on important problems
+They **don't work on important problems**
 
 --
 
-They don't become emotionally involved
+They **don't become emotionally involved**
 
 --
 
-They don't try and change what is difficult to some other situation which is easily done but is still important
+They **don't try and change what is difficult to some other situation which is easily done but is still important**
 
 --
 
-They keep giving themselves alibis why they don't. They keep saying that it is a matter of luck. 
+They **keep giving themselves alibis why they don't**. They keep saying that it is a matter of luck. 
