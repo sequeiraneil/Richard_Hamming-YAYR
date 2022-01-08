@@ -126,7 +126,7 @@ Knowledge & productivity are like compound interest
 
 ---
 
-# Other Things 2
+# More Conditions
 
 --
 ### Ambiguity
@@ -135,8 +135,11 @@ Tolerate it well.
 --
 > *They believe the theory enough to go ahead; they doubt it enough to notice the errors and faults so they can step forward and create the new replacement theory.* 
 
+
 --
+
 > *If you believe too much you'll never notice the flaws; if you doubt too much you won't get started.*
+
 
 --
 ### Subconscious
@@ -147,13 +150,13 @@ Feed the subconscious the problems and starve it from others for answers, someti
 ---
 # Important Problems
 
-Ask “what are the important problems in my field?”  Work on the important problems. You won’t do great work otherwise.
+Ask yourself *“what are the important problems in my field?”*  Work on the important problems. You won’t do great work otherwise.
 
-> It’s not consequences that make it an important problem, it’s that you have a reasonable attack.
+> **It’s not consequences that make it an important problem, it’s that you have a reasonable attack.**
 
 ---
 
-# Other things 3
+# Making Time
 
 --
 ### Great Thoughts Time
@@ -161,7 +164,7 @@ Ask “what are the important problems in my field?”  Work on the important pr
 💡Friday afternoons would discuss only great thoughts.
 
 --
-### Pursue Opportunity when it shows up. 
+### Pursue opportunity when it shows up. 
 
 
 Drop all other things. They go after it because they’ve already thought this thing through
@@ -189,11 +192,14 @@ Three things to do in selling:
 --
 - **Write clearly** so that people will read it
 
+
 --
 - Learn to give **formal talks**
 
+
 --
 - Learn to give **informal talks**
+
 
 
 --
@@ -212,7 +218,7 @@ class: inverse
 Try to get control over what you work on. Will take time, is hard work.
 
 --
-### Use leverage 
+### Credit 
 (story about using computing time to ask for named credit for the people doing programming, then using credit in published article to ask for resources)
 
 ---
