@@ -110,11 +110,16 @@ You can do great work by turning around the problem a little bit, rephrasing it.
 ## Drive 
 
 --
-Great researchers have great drive (John Tukey story) 
+Great researchers have great drive  
+
+--
+A story about the great John Tukey
 
 > “You would be surprised Hamming, how much you would know if you worked as hard as he did that many years.” 
 
 --
+
+
 
 Knowledge & productivity are like compound interest
 
@@ -123,30 +128,79 @@ Knowledge & productivity are like compound interest
 
 # Other Things 2
 
-- Tolerate ambiguity very well. They believe the theory enough to go ahead; they doubt it enough to notice the errors and faults so they can step forward and create the new replacement theory. If you believe too much you'll never notice the flaws; if you doubt too much you won't get started.
+--
+### Ambiguity
+Tolerate it well. 
 
-- Feed the subconscious the problems and starve it from others for answers, sometimes
+--
+> *They believe the theory enough to go ahead; they doubt it enough to notice the errors and faults so they can step forward and create the new replacement theory.* 
 
-- Ask “what are the important problems in my field?”  Work on the important problems. You won’t do great work otherwise.
+--
+> *If you believe too much you'll never notice the flaws; if you doubt too much you won't get started.*
 
-> Important problems: It’s not consequences that make it an important problem, it’s that you have a reasonable attack.
+--
+### Subconscious
+
+--
+Feed the subconscious the problems and starve it from others for answers, sometimes
+
+---
+# Important Problems
+
+Ask “what are the important problems in my field?”  Work on the important problems. You won’t do great work otherwise.
+
+> It’s not consequences that make it an important problem, it’s that you have a reasonable attack.
 
 ---
 
 # Other things 3
+
+--
+### Great Thoughts Time
  
-- 💡 “Great thoughts time”: Friday afternoons would discuss only great thoughts.
-- Pursue opportunity for great work when it shows up. Drop all other things. They go after it because they’ve already thought this thing through
-- Do you job in such a fashion that other people can build on it.  Don’t stand on each other’s feet.
+💡Friday afternoons would discuss only great thoughts.
+
+--
+### Pursue Opportunity when it shows up. 
+
+
+Drop all other things. They go after it because they’ve already thought this thing through
+
+
+--
+### Let Others Build On Your Work
+Do you job in such a fashion that other people can build on it.  Don’t stand on each other’s feet.
 
 ---
 
-# Other things 4 
-- Selling your work. Distasteful, ignored, and yet the most important.  Three things to do in selling:
-    - Write clearly so that people will read it
-    - Learn to give formal talks
-    - Learn to give informal talks
-- Technical people love to give a deep, restricted, TMI technical talk. The audience wants a broad, general relatable talk.
+# Communicate
+
+--
+### Sell your work. 
+
+--
+Distasteful, ignored, and yet the most important.  
+
+
+--
+Three things to do in selling:
+
+
+--
+- **Write clearly** so that people will read it
+
+--
+- Learn to give **formal talks**
+
+--
+- Learn to give **informal talks**
+
+
+--
+### Make It Accessible
+
+--
+Technical people love to give a deep, restricted, TMI technical talk. The audience wants a broad, general relatable talk.
 
 ---
 
